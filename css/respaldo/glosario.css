@@ -1,0 +1,131 @@
+
+
+header{
+    width:1000px;
+    margin: auto;
+}
+
+section{
+    width: 1000px;
+    margin: auto;    
+}
+
+
+.odair{
+       color:deepskyblue;
+       font-size: 50px;
+       font-family:fantasy;
+       text-align:center;
+       
+}
+    
+.tabla_1{
+    text-align: center;
+    background-color: firebrick;
+    color:white;
+    padding: 15px 0px 0px 0px;
+    font-size: 20px;
+}
+
+.subtitulo_1{
+    text-align: center;
+    background-color: midnightblue;
+    color:white;
+}
+
+.subtitulo_2{
+    text-align: center;
+    background-color: black;
+    color:deepskyblue;
+}
+
+.subtitulo_3{
+    text-align: center;
+    background-color: midnightblue;
+    color: deeppink;
+}
+
+.subtitulo_4{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+    
+
+
+.tabla{
+       margin: 15px 0px 15px 0px;
+}
+
+h3{
+    font-size: 18px;
+    background-color: #96E8D1;
+    width: 100%;
+    text-align: center;  
+}
+
+.inicio{
+    color: #B0D9D1;
+}
+
+.html{
+    width: 200px;
+}  
+
+.imagenes{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Andersson{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}   
+
+.Andersson div{
+  width: 300px; 
+  height: 400px;
+}
+
+.botones div{
+    width: 100px;
+    height: auto;
+    background-color: red;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+}
+.hijo{
+    display: block;
+    width: 150%;
+    background-color: aqua;
+    padding: 10px;
+    transition: 0.3s;
+    display: none;
+    cursor: pointer;
+    color: black;
+    text-align: start;
+}
+
+
+.padre:hover .hijo{
+    transition: 0.3s;
+    display: block;
+    position: relative;
+}
+
+.hijo:hover{
+    background-color:blue;
+}
+
+.hijo:hover span{
+    margin-left: 25px;
+    display: inline;
+    transition: 0.5s;
+ 
+}

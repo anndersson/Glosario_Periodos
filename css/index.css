@@ -1,0 +1,44 @@
+.banner_index{
+    background-color: aqua;
+    width: 100%;
+    min-height: 500px;
+    padding: 50px 50px;
+    background-image: url(../img/github.jpg);
+    background-size: cover;
+}
+.caja_izquierda{
+    max-width: 500px;
+}
+
+.caja_izquierda > h2{
+    font-size: 40px;
+    color: #ffff;
+}
+
+.caja_izquierda > p{
+    font-size: 20px;
+    color: #ffff;
+}
+
+.btn_1{
+display:block;
+width: 80px;
+padding: 10px 40px 10px 40px;
+background-color: blue;
+border-radius: 10px;
+text-align: center;
+color: #fff;
+text-decoration: none;
+font-size: 15px;
+    
+-webkit-box-shadow: 10px 10px 23px 0px rgba(12,196,209,1);
+-moz-box-shadow: 10px 10px 23px 0px rgba(12,196,209,1);
+box-shadow: 10px 10px 23px 0px rgba(12,196,209,1);
+}
+.btn_1:hover{
+    background-color:deepskyblue;
+    color:black;
+    width: 120px;
+    transition: 0.3s;
+}
+
