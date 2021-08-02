@@ -12,15 +12,20 @@
 | Materia: | Laboratorio 1 |
 
 # Indice
-1 Portada ----------------1
-2 Anteportada ----------- 2
-3 Indice ---------------- 3
-4 Glosario HTML CSS ----- 4
-5 Home Page ------------- 5
-5.1Banner
-6 Glosario -------------- 6
-6.1Contendio HTML
-6.2Contenido CSS
+| 1 Portada ----------------1 |
+| 2 Anteportada ----------- 2 |
+| 3 Indice ---------------- 3 |
+| 4 Glosario HTML CSS ----- 4 |
+| 5 Home Page ------------- 5 |
+| 5.1Banner |
+| 6 Glosario -------------- 6 |
+| 6.1Contendio HTML |
+| 6.2Contenido CSS |
+
+## Objetivos
+1.) Uno de mis Objetivos es aprender mas sobre los temas de compu.
+2.) Otro es saber armar y desarmar computadoras
+3.) Aprender mas sobre como programar java.
 
 
 
