@@ -12,13 +12,13 @@
 | Materia: | Laboratorio 1 |
 
 # Indice
-| 1 Portada ----------------1 |
-| 2 Anteportada ----------- 2 |
-| 3 Indice ---------------- 3 |
-| 4 Glosario HTML CSS ----- 4 |
-| 5 Home Page ------------- 5 |
+| 1 Portada |
+| 2 Anteportada |
+| 3 Indice |
+| 4 Glosario HTML CSS |
+| 5 Home Page |
 | 5.1Banner |
-| 6 Glosario -------------- 6 |
+| 6 Glosario |
 | 6.1Contendio HTML |
 | 6.2Contenido CSS |
 
