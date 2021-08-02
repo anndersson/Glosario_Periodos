@@ -22,7 +22,7 @@
 
 .btn_1{
 display:block;
-width: 80px;
+width: 130px;
 padding: 10px 40px 10px 40px;
 background-color: blue;
 border-radius: 10px;
@@ -38,7 +38,7 @@ box-shadow: 10px 10px 23px 0px rgba(12,196,209,1);
 .btn_1:hover{
     background-color:deepskyblue;
     color:black;
-    width: 120px;
+    width: 150px;
     transition: 0.3s;
 }
 
