@@ -33,7 +33,9 @@
 
 ## Objetivos
 1.) Uno de mis Objetivos es aprender mas sobre los temas de compu.
+
 2.) Otro es saber armar y desarmar computadoras
+
 3.) Aprender mas sobre como programar java.
 
 
