@@ -2,7 +2,7 @@
 |  Nombre: | Andersson Odair Navas Hernández  |
 | ------------ | ------------ |
 |  Colegio: | Colegio Santa Catalina Laboure  |
-|  Mi trabajo | https://jefuentes80.github.io/starup_scl/iv_computacion/Andersson%20Navas.html  |
+|  Mi trabajo | https://anndersson.github.io/Glosario_Periodos/  |
 | Profesor: | Josue Emmanuel Fuentes |
 | Materia: | Laboratorio 1 |
 
