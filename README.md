@@ -21,28 +21,30 @@
  
  | 3 Indice |
  
- | 4 Glosario HTML CSS  |
+ | 4 Informacíon  |
  
- | 5 Home Page  |
+ | 5 Login  |
  
- | 5.1Banner  |
+ | 6 Login_2  |
  
- | 6 Glosario |
+ | 7 Dashboard |
  
- | 6.1Contendio HTML | 
+ | 8 My profile  | 
  
- | 6.2Contenido CSS  |
+ | 9 Objetivos  |
+ 
+ | 10 Objetivo Futuro |
  
 
 ## Objetivos
-1.) Uno de mis Objetivos es aprender mas sobre los temas de compu.
+1.) Uno de mis objetivos es aprender mas sobre sistemas tambien.
 
-2.) Otro es saber armar y desarmar computadoras
+2.) Otro objetivo es realizar bien las paginas web sin ningun error.
 
-3.) Aprender mas sobre como programar java.
+3.) Aprender mas sobre como poner una pagina en formato responsive.
 
 ## Objetivo Futuro
-1.) Mi objetivo futuro es que para el proximo periodo poder realizar una pagina web ya bien estructurada. 
+1.) Mi objetivo futuro es que para el proximo año poder realizar una pagina web ya con el formato responsive bien hecho.
 
 
 
