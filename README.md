@@ -35,7 +35,7 @@
 
 ## Objetivo Futuro
 1.) Mi objetivo futuro es que para el proximo periodo poder realizar una pagina web ya bien estructurada. 
-
+ 
 
 
   
